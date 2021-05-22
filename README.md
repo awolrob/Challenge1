@@ -47,4 +47,5 @@ Change log:
 8 - added blank line between sections in body for readibility
 9 - added alt="" to visual decoration images to left aside section / benefits class
 10 - decided to change divs in content section and aside section into article elements for readibility
-11 - add aira lable to hero background image
+11 - add aira lable to hero background image (ref:https://www.davidmacd.com/blog/alternate-text-for-css-background-images.html)
+12 - add alt test to content article images
