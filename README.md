@@ -41,3 +41,10 @@ Change log:
 2.1 - header, nav, section for class=content, aside for class=benefits, footer
 3 - Shift-Alt-F to reformt code - to easily ensure proper indention 
 4 - Put loose hero div into a section
+5 - update CSS to reapply formatting, styles to referece new semantic HTML elements in nav
+6 - change h2 footer to h3 and updated CSS to reference h3 instead of h2
+7 - fix broken link to "search-engine-optimization" by adding id=
+8 - added blank line between sections in body for readibility
+9 - added alt="" to visual decoration images to left aside section / benefits class
+10 - decided to change divs in content section and aside section into article elements for readibility
+11 - add aira lable to hero background image
