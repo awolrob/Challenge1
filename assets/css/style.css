@@ -73,25 +73,15 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
+/* end Hero section styles */
 
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
+/* content styles */
 
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
-/* end Hero section styles */
-
-/* content styles */
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -226,3 +216,17 @@ p {
 }
 
 /* end footer styles */
+
+/* utilities */
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* end utilities */
