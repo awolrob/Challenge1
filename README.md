@@ -33,3 +33,11 @@ Wants a codebase that follows accessibility standards so the site is optimized f
 5.1 THEN I find a concise, descriptive title
 5.1.1 Action: Ensure title element has a  concise, descriptive title that describes the page's purpose for accessibility readers
 5.1.2 Ref: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title#accessibility_concerns
+
+
+Change log:
+1 - Updated Title
+2 - replaced div were semantic HTML elements exist
+2.1 - header, nav, section for class=content, aside for class=benefits, footer
+3 - Shift-Alt-F to reformt code - to easily ensure proper indention 
+4 - Put loose hero div into a section
