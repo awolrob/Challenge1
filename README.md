@@ -1,7 +1,8 @@
 # CWRU Cooding Bootcamp Challenge 1
-##PURPOSE: Code Refactor Code to meet accessibility standards so the site is optimized for search engines.
+##PURPOSE: Refactor Code to meet accessibility standards so the site is optimized for search engines.
 
-Source: https://github.com/awolrob/Challenge1
+Source: Open [index.html](./index.html)
+[Github]: https://github.com/awolrob/Challenge1
 Live URL: https://awolrob.github.io/Challenge1/
 
 ## A marketing agency:
@@ -53,7 +54,7 @@ Change log:
 11 - add aira lable to hero background image (ref:https://www.davidmacd.com/blog/alternate-text-for-css-background-images.html)
 12 - add alt test to content article images
 
-## rework the CSS to make it more efficient by consolidating CSS selectors and properties
+## Rework the CSS to make it more efficient by consolidating CSS selectors and properties
 ref: https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing
 
 ## 

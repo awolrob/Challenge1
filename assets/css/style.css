@@ -8,10 +8,20 @@
 
 /* end page styles */
 
-/* general styles */
+/* start general styles */
 
 body {
     background-color: #d9dcd6;
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+h3 {
+    margin-bottom: 10px;
+    text-align: center;
 }
 
 a {
@@ -23,9 +33,13 @@ p {
     font-size: 16px;
 }
 
+img {
+    max-height: 200px;
+}
+
 /* end general styles */
 
-/* Header and Main Navigation styles for Horiseon logo and nav links */
+/* start Header and Main Navigation styles for Horiseon logo and nav links */
 
 .header {
     padding: 20px;
@@ -62,7 +76,7 @@ p {
 
 /* end header and navigation styles */
 
-/* Hero section styles */
+/* start Hero section styles */
 
 .hero {
     height: 800px;
@@ -75,7 +89,7 @@ p {
 
 /* end Hero section styles */
 
-/* content styles */
+/* start content styles */
 
 .content {
     width: 75%;
@@ -83,63 +97,18 @@ p {
     margin-left: 20px;
 }
 
-.search-engine-optimization {
+.content-items {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
 }
 
 /* end content styles */
 
-/* aside benefits styles */
+/* start aside benefits styles */
 
 .benefits {
     margin-right: 20px;
@@ -152,49 +121,12 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefit-items {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost img {
+.benefit-items img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -202,7 +134,7 @@ p {
 
 /* end aside benefits styles */
 
-/* footer styles */
+/* start footer styles */
 
 .footer {
     padding: 30px;
@@ -211,13 +143,14 @@ p {
     text-align: center;
 }
 
-.footer h3 {
+.footer h4 {
     font-size: 20px;
+    /* margin: inherit; */
 }
 
 /* end footer styles */
 
-/* utilities */
+/* start utilities */
 
 .float-left {
     float: left;
