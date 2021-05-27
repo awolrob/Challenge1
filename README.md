@@ -1,54 +1,54 @@
 # CWRU Cooding Bootcamp Challenge 1
-##PURPOSE: Refactor Code to meet accessibility standards so the site is optimized for search engines.
+## PURPOSE: Refactor Code to meet accessibility standards so the site is optimized for search engines.
 
 Open [index.html](./index.html) in your browser to view the updated landing page.
    - Source: [Github](https://github.com/awolrob/Challenge1)
    - Published Site: [Live URL](https://awolrob.github.io/Challenge1/)
 
-**A marketing agency:**
+## A marketing agency:
 Wants a codebase that follows accessibility standards so the site is optimized for search engines
 
-##Acceptance Criteria is as follows:
+## Acceptance Criteria is as follows:
 
 1. WHEN I view the source code
-1.1 THEN I find semantic HTML elements
-1.1.2 Action: Update and add semantic HTML elements if not present or incorrect
-1.1.3 Ref: https://www.w3schools.com/html/html5_semantic_elements.asp
-1.1.4 Ref: https://www.w3schools.com/html/html_accessibility.asp
+   THEN I find semantic HTML elements
+- Action: Update and add semantic HTML elements if not present or incorrect
+- Ref: https://www.w3schools.com/html/html5_semantic_elements.asp^
+- Ref: https://www.w3schools.com/html/html_accessibility.asp
 
 
 2. WHEN I view the structure of the HTML elements
-2.1 THEN I find that the elements follow a logical structure independent of styling and positioning
-1.1.1 Action: Update HTML format and flow to ensure a logical structure
-1.1.2 Ref: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure
-1.1.3 Ref: https://www.w3docs.com/snippets/html/html5-page-structure.html
+   THEN I find that the elements follow a logical structure independent of styling and positioning
+- Action: Update HTML format and flow to ensure a logical structure
+- Ref: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure
+- Ref: https://www.w3docs.com/snippets/html/html5-page-structure.html
  
 
 3. WHEN I view the image elements
-3.1 THEN I find accessible alt attributes
-3.1.1 Action: Review all images and add or update atl tags with accessibility readers in mind and so images become indexable by search engines
-3.1.2 Ref: https://www.w3.org/WAI/tutorials/images/
+   THEN I find accessible alt attributes
+- Action: Review all images and add or update atl tags with accessibility readers in mind and so images become indexable by search engines
+- Ref: https://www.w3.org/WAI/tutorials/images/
  
 
 4. WHEN I view the heading attributes
-4.1 THEN they fall in sequential order
-4.1.1 Action: Review heading attributes update or change to ensure they fall in sequential order
-4.1.2 Ref: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
-4.1.3 Ref: https://www.w3schools.com/html/html_headings.asp
+   THEN they fall in sequential order
+- Action: Review heading attributes update or change to ensure they fall in sequential order
+- Ref: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
+- Ref: https://www.w3schools.com/html/html_headings.asp
 
 
 5. WHEN I view the title element
-5.1 THEN I find a concise, descriptive title
-5.1.1 Action: Ensure title element has a  concise, descriptive title that describes the page's purpose for accessibility readers
-5.1.2 Ref: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title#accessibility_concerns
+   THEN I find a concise, descriptive title
+- Action: Ensure title element has a  concise, descriptive title that describes the page's purpose for accessibility readers
+- Ref: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title#accessibility_concerns
 
 ##### Additional Requirement
 > Always leave the code you are editing a little cleaner than you found it.
 * Rework the CSS to make it more efficient by consolidating CSS selectors and properties
-ref: https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing
+-  Ref: https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing
 
 
-Change log:
+## Change log:
 1 - Updated Title
 
 2 - replaced div were semantic HTML elements exist
@@ -71,7 +71,7 @@ Change log:
 
 10 - decided to change divs in content section and aside section into article elements for readibility
 
-11 - add aira lable to hero background image (ref:https://www.davidmacd.com/blog/alternate-text-for-css-background-images.html)
+11 - add aira lable to hero background image (Ref: https://www.davidmacd.com/blog/alternate-text-for-css-background-images.html)
 
 12 - add alt text to content article images
 
@@ -85,10 +85,15 @@ Change log:
 
 - - -
 
-![Target landing page:](./assets/images/Before-01-html-css-git-homework-demo.png) 
+**Original page:**
+
+![Before](./assets/images/Before-01-html-css-git-homework-demo.png) 
 
 - - -
 
-![The final landing page:](./assets/images/After-01-html-css-git-homework-demo.jpeg) 
+**Updated page:** 
+
+![After](./assets/images/After-01-html-css-git-homework-demo.jpeg) 
 
 - - -
+|| :+1: https://github.com/awolrob | 2021-05-26 ||
