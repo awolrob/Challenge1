@@ -96,4 +96,4 @@ Wants a codebase that follows accessibility standards so the site is optimized f
 ![After](./assets/images/After-01-html-css-git-homework-demo.jpeg) 
 
 - - -
-|| :+1: https://github.com/awolrob | 2021-05-26 ||
+` https://github.com/awolrob | 2021-05-26 `  :+1:
